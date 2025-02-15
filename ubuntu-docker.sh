@@ -24,6 +24,4 @@ apt install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-co
 
 systemctl enable docker
 
-exit
-
 echo "$(docker --version)" > ~/result.txt
