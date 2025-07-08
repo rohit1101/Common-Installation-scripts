@@ -91,6 +91,6 @@ sudo systemctl start node_exporter
 sudo systemctl status node_exporter
 
 # enable the service 
-sudo systemctl enable node_exporter.service|
+sudo systemctl enable node_exporter.service
 
 Reference: https://developer.couchbase.com/tutorial-node-exporter-setup/
